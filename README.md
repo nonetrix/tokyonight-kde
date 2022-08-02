@@ -1,4 +1,4 @@
-# tokyonight-kde
+# tokyonight-kde 🏙️
 Tokyo Night color theme for KDE 
 
 KDE Color theme using colors from https://github.com/enkia/tokyo-night-vscode-theme 
